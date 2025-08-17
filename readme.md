@@ -30,7 +30,7 @@
 
 ## 📱 社交媒体与联系
 - **哔哩哔哩**：[开发者比尔](https://space.bilibili.com/535324469)
-- **小红书**：[fkzbr](https://www.xiaohongshu.com/user/profile/64576cda0000000014010b63?xsec_token=YBztFrGRGDMeVxi921JC6AoY7MVd8fCPqun5DdYFMdfZc%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=64576cda0000000014010b63&apptime=1755439903&share_id=e2ff04e32b7447fd9bd14f04b66c12d8&share_channel=copy_link)
+- **小红书**：[kfzbr](https://www.xiaohongshu.com/user/profile/64576cda0000000014010b63?xsec_token=YBztFrGRGDMeVxi921JC6AoY7MVd8fCPqun5DdYFMdfZc%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=64576cda0000000014010b63&apptime=1755439903&share_id=e2ff04e32b7447fd9bd14f04b66c12d8&share_channel=copy_link)
 - **X**：[BillW Gong](https://twitter.com/yankaxh1207)
 - **GitHub**：[@billwgong](https://github.com/billwgong)，制作一些没用的程序来练习开源。
 - **个人博客**：[billwblog.top](https://billwblog.top)，分享一些没有的小知识以及心得。

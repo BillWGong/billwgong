@@ -1,38 +1,35 @@
-# 👋 关于我 - BillW Gong
-2011年生于深圳，现就读深圳某个创新初中，长期专注于技术领域实践，在全栈开发、创业项目及技术社区活动中积累经验，始终平衡学业与技术探索，致力于将技术想法转化为实际项目。
+### Hi there 👋
 
-## 🔍 主要身份
-- **Web全栈开发者**
-- **AstraCore量子星辰 创始人**：2025年创立该技术创业团队，聚焦青少年技术创新领域。当前推进着一项核心工作：招募团队核心成员，重点吸纳具备全栈开发、产品设计或社区运营能力的青少年开发者。
+Hi, I'm BillW Gong, a 14-year-old frontend developer and domain enthusiast based in Shenzhen, China.
 
-## 🚀 创业与项目经历
-1. **2021年 - 创立Lz's Studio**：作为个人技术实践起点，搭建基础开发框架，开发校园信息查询系统、简易任务管理应用等3个小型Web工具，累计服务500+用户，验证技术方案实用性。
-2. **2025年 - 启动AstraCore量子星辰青少年多元化社群**：从个人开发转向团队协作，确立“梦想赋能青少年创新”定位。已完成团队核心技术栈搭建（后端Python+Flask、前端Vue.js、云数据库存储），并启动“校园技术创新案例库”合作项目，计划收录全国青少年优秀技术项目，为同类开发者提供参考。
+![BillW's GitHub stats](https://github-readme-stats.vercel.app/api?username=billwgong&show_icons=true&theme=tokyonight)
 
-## 💻 技术能力
-- **核心方向**：全栈Web开发，可独立完成需求分析、架构设计、开发部署全流程。
-- **掌握技能**：熟练使用C++（用于功能实现）、Python（主力开发语言，擅长用Flask框架，集成站点模板）；掌握HTML/CSS/JavaScript基础，正在Vue.js框架与Element UI组件库，能开发响应式Web界面；了解主流云服务（ECS、云数据库、对象存储），具备基础服务器部署与运维能力（Nginx配置、SSL证书部署）。
-- **开发习惯**：遵循“需求-原型-迭代-测试”流程，并不注重代码可读性与可维护性，而注重的是用户使用项目时的体验度。借助Trae.ai（AI IDE）提升开发效率，缩短项目交付周期。
+| STATUS QUO |
+| :--------------- |
 
-## 🛠️ 工具偏好
-- **开发环境**：Windows 11操作系统
-- **核心工具**：以Trae.ai为主要IDE，利用其AI功能解决语法问题与逻辑漏洞；备用VS Code（搭配Python、Flask相关插件）。
-- **其他偏好**：长期使用云服务部署项目，偏好弹性扩展的云厂商；热衷收藏域名，已注册10+与技术、创业相关域名，用于搭建个人技术博客与团队官网（当然有一部分闲置了）。
+- 🌱 I'm currently learning and exploring new technologies.
+- 🤔 My research interests are web development, backend development, and DevOps.
+- 🎨 Frontend developer with a passion for creating amazing user experiences.
+- 🌐 Domain enthusiast, always exploring the world of domains.
+- 💡 I love turning ideas into reality and helping young people bring their ideas to life.
+- 💼 I work for AstraCore, YOUTHGALA and 2025 Youth Spring Festival Gala.
+- 💬 Ask me about anything, I would like to answer.
+- 📫 Email: banlangencn@gmail.com (Personal) | b@lz-s.cn (Work)
+- 👀 See my [Blog](https://billwblog.top) to get more info.
 
-## 📈 未来规划
-### 短期（1-2年）
-- **技术**：学习Vue框架与Node.js，拓展前端技术；研究UI/UX研发，提升代码效率。
-- **社区**：完成AstraCore量子星辰人员招募行动，推动10+项目落地，扩大团队影响力。
+| WHERE AM I |
+| :--------------- |
 
-### 长期（3-5年）
-- **技术**：确定细分领域（倾向Web全栈进阶或AI应用开发），参与开源项目贡献（如优化Flask插件、翻译Vue社区文档）。或向网安方向发展。
-- **平台建设**：将AstraCore量子星辰发展为数一数二的青少年梦想实验基地。
+- [AstraCore量子星辰](https://lz-s.cn): AstraCore - Founder
+- [YOUTHGALA](https://youthgala.com): YOUTHGALA - Builder
+- [2025年第二届中学生春晚](https://youthgala.com/ZCW): Youth Spring Festival Gala 2025 - Staff
 
-## 📱 社交媒体与联系
-- **哔哩哔哩**：[开发者比尔](https://space.bilibili.com/535324469)
-- **小红书**：[kfzbr](https://www.xiaohongshu.com/user/profile/64576cda0000000014010b63?xsec_token=YBztFrGRGDMeVxi921JC6AoY7MVd8fCPqun5DdYFMdfZc%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=64576cda0000000014010b63&apptime=1755439903&share_id=e2ff04e32b7447fd9bd14f04b66c12d8&share_channel=copy_link)
-- **X**：[BillW Gong](https://twitter.com/yankaxh1207)
-- **GitHub**：[@billwgong](https://github.com/billwgong)，制作一些没用的程序来练习开源。
-- **个人博客**：[billwblog.top](https://billwblog.top)，分享一些没有的小知识以及心得。
+| MY TECH STACK |
+| :------------ |
 
-期待与技术爱好者、行业前辈交流合作，共同推进技术探索与成长。
+[![TECH STACK](https://mobaicons.com/icons/cpp,python,react,php,mysql,html,css,javascript,sqlite,git,github)](https://github.com/Artist-MOBAI/MOBAIcons)
+
+| MY CURRENT TOOLS |
+| :--------------- |
+
+[![My Current Tools](https://mobaicons.com/icons/git,github,npm,windows,vim,mysql,postman,figma,gitlab,vscode,cursor,trae)](https://github.com/Artist-MOBAI/MOBAIcons)

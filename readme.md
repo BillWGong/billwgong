@@ -15,7 +15,7 @@ Hi, I'm BillW Gong, a 14-year-old frontend developer and domain enthusiast based
 - 💼 I work for AstraCore, YOUTHGALA and 2025 Youth Spring Festival Gala.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Email: banlangencn@gmail.com (Personal) | b@lz-s.cn (Work)
-- 👀 See my [Blog](https://billwblog.top) to get more info.
+- 👀 See my [ Bonjour! ](https://bonjour.bio/billw) to get more info.
 
 | WHERE AM I |
 | :--------------- |

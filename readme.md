@@ -21,8 +21,8 @@ Hi, I'm BillW Gong, a 14-year-old frontend developer and domain enthusiast based
 | :--------------- |
 
 - [AstraCore量子星辰](https://lz-s.cn): AstraCore - Founder
-- [YOUTHGALA](https://youthgala.com): YOUTHGALA - Builder
-- [2025年第二届中学生春晚](https://youthgala.com/ZCW): Youth Spring Festival Gala 2025 - Staff
+- YOUTHGALA: lamo 蓝墨 - Co-Founder 
+
 
 | MY TECH STACK |
 | :------------ |

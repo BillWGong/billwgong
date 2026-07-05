@@ -20,8 +20,7 @@ Hi, I'm BillW Gong, a 14-year-old frontend developer and domain enthusiast based
 | WHERE AM I |
 | :--------------- |
 
-- [AstraCore量子星辰](https://lz-s.cn): AstraCore - Founder
-- YOUTHGALA: lamo 蓝墨 - Co-Founder 
+- _entropy - Co-Founder 
 
 
 | MY TECH STACK |

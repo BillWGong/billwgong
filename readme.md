@@ -21,14 +21,3 @@ Hi, I'm BillW Gong, a 14-year-old frontend developer and domain enthusiast based
 | :--------------- |
 
 - _entropy - Co-Founder 
-
-
-| MY TECH STACK |
-| :------------ |
-
-[![TECH STACK](https://mobaicons.com/icons/cpp,python,react,php,mysql,html,css,javascript,sqlite,git,github)](https://github.com/Artist-MOBAI/MOBAIcons)
-
-| MY CURRENT TOOLS |
-| :--------------- |
-
-[![My Current Tools](https://mobaicons.com/icons/git,github,npm,windows,vim,mysql,postman,figma,gitlab,vscode,cursor,trae)](https://github.com/Artist-MOBAI/MOBAIcons)
